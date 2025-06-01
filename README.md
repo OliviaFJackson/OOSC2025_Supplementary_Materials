@@ -54,7 +54,7 @@ The median CPUE, mean CPUE, % CPUE, and number of trips for each combination of:
 - Wilcoxon rank-sum test p-values are provided where there were ≥3 trips per gender for a given combination.
 - This table helps interpret how gendered gear use contributes to harvest productivity for key organisms in Atsimo-Andrefana.
 
-| **Table_S4_Organism_Gender_Region_Summary.pdf** |
+| **Table_S4_CPUE_Contribution_Organism_Gender_Summary.pdf** |
 
 Summary: Percent CPUE contribution of each organism by gender and region.
 
@@ -65,7 +65,19 @@ Includes:
 - Only trips with CPUE > 0 are included.
 - Values represent % of total CPUE per gender in that region, allowing direct comparisons of dominant taxa harvested by each gender.
 
-| **Table_S5_Summary_Trip_Composition.pdf** | 
+
+| **Table_S5_CPUE_by_Organism_Gender_Region.pdf** |
+
+Summary:
+This table summarizes median and mean CPUE values (kg/fisher/hour) for each harvested organism, disaggregated by gender and region.
+
+Includes:
+Median CPUE, mean CPUE, and number of trips for each organism, by gender.
+Wilcoxon rank-sum test p-values comparing male and female CPUE for each organism in each region (reported only where ≥3 trips per gender were recorded).
+Organisms with <3 trips for a gender are retained, with missing values shown as "–".
+Helps identify organism-level gender differences in catch productivity without gear disaggregation.
+
+| **Table_S6_Summary_Trip_Composition.pdf** | 
 
 Summary: Summary of single-gender trip composition by region.
 
@@ -75,7 +87,7 @@ Includes:
 - Helps identify gender imbalance in fishing effort and reporting across Diana and Atsimo-Andrefana regions.
 - Based on all fishing trips, including multi-gear trips.
 
-| **Table_S6_Summary_Table_Supplementary.pdf** |
+| **Table_S7_Summary_Table_Supplementary.pdf** |
 
 Summary: Key metrics describing gendered fishing patterns in each region.
 
